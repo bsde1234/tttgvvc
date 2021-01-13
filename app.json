@@ -15,4 +15,5 @@
   "stack": "container",
   "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "" }
+      "value": ""
+}
