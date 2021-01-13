@@ -23,6 +23,7 @@ RUN apt-get install -y\
 
 RUN pip3 install --upgrade pip
 RUN git clone https://github.com/ahirearyan2/Telegram_VC_Bot
+RUN cd
 RUN pip3 install -r requirements.txt
 RUN pacmd move-sink-input
 CMD ["bash","vc.sh"]
