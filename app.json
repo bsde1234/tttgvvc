@@ -12,4 +12,7 @@
   "repository": "https://github.com/ahirearyan2/Telegram_VC_Bot",
   "website": "starkgang.ml",
   "success_url": "t.me/FridayOT",
-  "stack": "container"
+  "stack": "container",
+  "HEROKU_APP_NAME": {
+      "description": "The Value of App Name you filled in right on top.Required for updater to work.",
+      "value": "" }
