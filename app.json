@@ -1,7 +1,7 @@
 {
-  "name": "Friday-Userbot",
-  "description": "A Userbot Based On Telethon By Friday Devs",
-  "logo": "https://telegra.ph/file/b4e1e36c6b1fcb32dd997.jpg",
+  "name": "voice-provider",
+  "description": "A Userbot Based On Telethon",
+  "logo": "https://telegra.ph/file/236838d84ab3f47ddd0af.jpg",
   "keywords": [
     "telegram",
     "fridaybot",
@@ -9,9 +9,9 @@
     "telegram-fridaybot",
     "productivity"
   ],
-  "repository": "https://github.com/ahirearyan2/Telegram_VC_Bot",
+  "repository": "https://github.com/shivaaa0329/Telegram_VC_Bot",
   "website": "starkgang.ml",
-  "success_url": "t.me/FridayOT",
+  "success_url": "t.me/shivaaa029",
   "stack": "container",
   "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
